@@ -1,0 +1,8 @@
+{
+  "API_PROVIDER": "deepseek",
+  "LLM_API_KEY": "sk-2bcb98166f464ac1b607fd8fd0c051dc",
+  "MODEL": "deepseek-chat",
+  "MCP_SERVER_AUTH_TOKEN": "Qijd0910",
+  "WORKING_DIR": "./workspace",
+  "ALLOW_DELETE": false
+}

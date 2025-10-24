@@ -1,0 +1,26 @@
+{
+  "name": "files-assistant-mcp",
+  "version": "1.0.0",
+  "description": "AI-Based small assitant for files manipulations",
+  "homepage": "https://github.com/Krusty84/files-assistant-mcp#readme",
+  "bugs": {
+    "url": "https://github.com/Krusty84/files-assistant-mcp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krusty84/files-assistant-mcp.git"
+  },
+  "license": "MIT",
+  "author": "Alexey Sedoykin",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "dotenv": "^17.2.3",
+    "glob": "^11.0.3",
+    "readline-sync": "^1.4.10"
+  }
+}
