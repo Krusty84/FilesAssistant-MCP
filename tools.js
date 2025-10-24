@@ -109,7 +109,7 @@ module.exports = {
     return `File deleted: ${filePath}`;
   },
 
-  // EXAMPLE: REST API CALL - Fetch data from public JSONPlaceholder API (no token required)
+  // EXAMPLE: REST API CALL - Fetch data from public JSONPlaceholder API
   // This tool demonstrates integrating external REST APIs for file-related workflows.
   // Usage: Fetch JSON data and save it to a file using create_file tool.
   // To enable: Uncomment and add to tools descriptions in deepseek-client.js
